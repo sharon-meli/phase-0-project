@@ -1,0 +1,68 @@
+.navbar a {
+    padding: 20px 40px;
+    text-decoration: none;
+    color: orangered;
+    font-size: 30px;
+    background-color: rgb(199, 199, 188);
+
+}
+.navbar a:hover{
+    transition: 2s;
+    color: blue;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+
+}
+body {
+background-color: rgb(232, 207, 232);
+}
+
+ .links {
+    font-size: 25px;
+   padding: 25px 25px;
+ }
+ a {
+   text-decoration: none;
+   padding: 25px 25px;
+}
+a:hover {
+    transition: 2s;
+    color: brown;
+
+}
+.hobbies {
+    padding:30px 30px;
+}
+ 
+ .contact {
+    font-size: 30PX;
+    color: blue;
+}
+.aboutme {
+    width: 350px;
+    height: 350px;
+}
+
+
+.email {
+color: blue;
+font-size: 25px;
+}
+
+header {
+font-size: 30PX;
+color: rgb(241, 22, 168);
+padding: 20px 100px;
+
+}
+
+p {
+font-size: 20px;
+}
+.a {
+    font-size: 80px;
+}
+
